@@ -1,8 +1,8 @@
-![Banner](https://github.com/m4icol/m4icol/assets/93083280/ad3bcf0b-d386-4a79-a199-2150d178068d)
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/8bc7b32a-f712-4c32-9b44-87b0766ac8df" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;Data+Analyst;Building+towards+Data+%26+ML+Engineering;Turning+data+and+ideas+into+real+solutions)](https://maickolrivera.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E4D8C3&center=true&vCenter=true&width=650&lines=Software+Developer;Data+Analyst;Building+towards+Data+%26+ML+Engineering;Turning+data+and+ideas+into+real+solutions)](https://maickolrivera.vercel.app/)
 
 </div>
 
@@ -73,6 +73,5 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://maickolrivera.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maickol-rivera/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaickolRivera)
 
 </div>
