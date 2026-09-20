@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E4D8C3&center=true&vCenter=true&width=650&lines=I+build+unique+Web+experiences;I%27m+building+towards+Data+%26+ML+Engineering;I+build+RAG+%26+AI-powered+tools)](https://maickolrivera.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=26&duration=3000&pause=1000&color=EFE6D6&center=true&vCenter=true&width=650&lines=I+build+unique+Web+experiences;I%27m+building+towards+Data+%26+ML+Engineering;I+build+RAG+%26+AI-powered+tools)](https://maickolrivera.vercel.app/)
 
 </div>
 
@@ -59,12 +59,10 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 
 ---
 
-## Let's connect
-
 <div align="center"><br>
 
 <p align="center">
-  🎓 Software Engineering @ UCompensar &nbsp;·&nbsp; 🌍 English B2 &nbsp;·&nbsp; 📍 Bogotá, Colombia
+  | 🎓 Software Engineering @ UCompensar &nbsp;|&nbsp; 🌍 English B2 &nbsp;|&nbsp; 📍 Bogotá, Colombia |
 </p>
 
 <p align="center">
