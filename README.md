@@ -49,16 +49,6 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 
 ---
 
-## Featured Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **BigSort** | Interactive sorting algorithm visualizer with real-time animations, Big O stats and code in JavaScript, Python and Java. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MaickolRivera/bigsort) [![Demo](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel)](https://bigsort.vercel.app) |
-| **Rekrypt** | Web encryption and hashing tool with chainable encoders and real-time preview (FastAPI + React + Three.js). | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MaickolRivera/rekrypt) [![Demo](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel)](https://rekrypt.vercel.app/) |
-| **Sistema Solar** | Interactive solar system simulation built with Three.js and Astro. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MaickolRivera/sistema-solar) [![Demo](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel)](https://sistemasolar-threejs.vercel.app/) |
-
----
-
 <div align="center"><br>
 
 <p align="center">
