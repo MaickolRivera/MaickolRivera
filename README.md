@@ -16,10 +16,24 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 
 ```
 {
-  "frontend": ["HTML", "CSS", "Tailwind CSS", "JavaScript", "TypeScript", "React", "Astro", "Three.js", "Shadcn", "RadixUI"],
-  "backend": ["Python", "FastAPI", "PostgreSQL", "Supabase", "MongoDB", "Pydantic"],
-  "data_and_visualizations" ["Python", "Pandas", "NumPy", "Excel", "Apps Script", "DataStudio",]
-  "tools": ["Git", "GitHub", "Vercel", "Figma", "Microsoft Azure"]
+  "FRONTEND": [
+    "HTML", "CSS", "JavaScript", "TypeScript", "React", "Astro", "Three.js", "Tailwind", "Radix UI"
+  ],
+  "BACKEND": [
+    "Python", "FastAPI", "Pydantic", "SQL", "PostgreSQL", "MongoDB"
+  ],
+  "INTELIGENCIA_ARTIFICIAL": [
+    "Arquitectura RAG", "LlamaIndex", "ChromaDB/Qdrant", "Embeddings", "Integración de LLMs", "MCP"
+  ],
+  "ANALISIS_DATOS": [
+    "Jupyter Notebook", "Excel", "Google Sheets", "ETL/ELT","Looker Studio", "Power BI"
+  ],
+  "AUTOMATIZACION": [
+    "n8n", "Pandas", "NumPy", "Playwright", "Apps Script"
+  ],
+  "HERRAMIENTAS": [
+    "Vercel", "Figma", "Supabase", "Git", "Microsoft Azure"
+  ]
 }
 ```
 
