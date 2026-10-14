@@ -22,16 +22,16 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
   "BACKEND": [
     "Python", "FastAPI", "Pydantic", "SQL", "PostgreSQL", "MongoDB"
   ],
-  "INTELIGENCIA_ARTIFICIAL": [
-    "Arquitectura RAG", "LlamaIndex", "ChromaDB/Qdrant", "Embeddings", "Integración de LLMs", "MCP"
+  "ARTIFICIAL_INTELLIGENCE": [
+    "RAG", "LlamaIndex", "ChromaDB/Qdrant", "Embeddings", "LLMs", "MCP"
   ],
-  "ANALISIS_DATOS": [
-    "Jupyter Notebook", "Excel", "Google Sheets", "ETL/ELT","Looker Studio", "Power BI"
+  "AUTOMATION": [
+    "n8n", "Apps Script", "Pandas", "NumPy", "Playwright", "ETL/ELT"
   ],
-  "AUTOMATIZACION": [
-    "n8n", "Pandas", "NumPy", "Playwright", "Apps Script"
+  "DATA_ANALYSIS": [
+    "Jupyter Notebook", "Excel", "Google Sheets", "Looker Studio", "Power BI"
   ],
-  "HERRAMIENTAS": [
+  "TOOLS": [
     "Vercel", "Figma", "Supabase", "Git", "Microsoft Azure"
   ]
 }
