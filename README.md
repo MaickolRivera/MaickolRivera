@@ -17,13 +17,13 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 ```
 {
   "FRONTEND": [
-    "HTML", "CSS", "JavaScript", "TypeScript", "React", "Vite", "Astro", "Three.js", "Tailwind", "Radix UI"
+    "HTML", "CSS", "JavaScript", "TypeScript", "React", "Astro", "Three.js", "Tailwind", "Radix UI"
   ],
   "BACKEND": [
-    "Python", "FastAPI", "Pydantic", "pytest", "SQL", "PostgreSQL", "MongoDB"
+    "Python", "FastAPI", "Pydantic", "pytest", "SQL", "PostgreSQL", "MongoDB", "Postman", "JWT"
   ],
   "ARTIFICIAL_INTELLIGENCE": [
-    "RAG", "LlamaIndex", "ChromaDB/Qdrant", "Embeddings", "LLMs", "MCP", "NLP", "ONNX Runtime", "Laya"
+    "RAG", "MCP", "LlamaIndex", "Embeddings", "ChromaDB/Qdrant", "NLP", "scikit", "ONNX Runtime", "Laya"
   ],
   "AUTOMATION": [
     "n8n", "Apps Script", "Pandas", "NumPy", "Playwright", "ETL/ELT"
