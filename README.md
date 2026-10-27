@@ -17,22 +17,19 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 ```
 {
   "FRONTEND": [
-    "HTML", "CSS", "JavaScript", "TypeScript", "React", "Astro", "Three.js", "Tailwind", "Radix UI"
+    "TypeScript", "React", "Next.js", "TailwindCSS", "shadcn/ui", "Radix UI", "Vite", "Astro", "Three.js", "HTML", "CSS", "JavaScript"
   ],
   "BACKEND": [
-    "Python", "FastAPI", "Pydantic", "pytest", "SQL", "PostgreSQL", "MongoDB", "Postman", "JWT"
+    "Python", "FastAPI", "Pydantic", "Supabase", "PostgreSQL", "MongoDB", "SQL", "RLS", "JWT", "REST APIs", "Postman"
   ],
   "ARTIFICIAL_INTELLIGENCE": [
-    "RAG", "MCP", "LlamaIndex", "Embeddings", "ChromaDB/Qdrant", "NLP", "scikit", "ONNX Runtime", "Laya"
-  ],
-  "AUTOMATION": [
-    "n8n", "Apps Script", "Pandas", "NumPy", "Playwright", "ETL/ELT"
+    "RAG", "LlamaIndex", "ChromaDB", "Qdrant", "Embeddings", "LLMs", "MCP", "NLP", "scikit-learn", "ONNX Runtime", "Laya"
   ],
   "DATA_ANALYSIS": [
-    "Jupyter Notebook", "Excel", "Google Sheets", "Looker Studio", "Power BI"
+    "SQL", "Power BI", "Looker Studio", "Excel", "Google Sheets", "Apps Script", "Pandas", "NumPy", "ETL/ELT"
   ],
   "TOOLS": [
-    "Vercel", "Figma", "Supabase", "Git", "Microsoft Azure"
+    "Git", "GitHub Actions", "Vercel", "Figma", "ESLint"
   ]
 }
 ```
