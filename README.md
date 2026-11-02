@@ -17,10 +17,10 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
 ```
 {
   "FRONTEND": [
-    "TypeScript", "React", "Next.js", "TailwindCSS", "shadcn/ui", "Radix UI", "Vite", "Astro", "Three.js", "HTML", "CSS", "JavaScript"
+    "TypeScript", "JavaScript", "React", "Next.js", "Tailwind", "shadcn/ui", "Vite", "Astro", "Three.js", "HTML", "CSS"
   ],
   "BACKEND": [
-    "Python", "FastAPI", "Pydantic", "Supabase", "PostgreSQL", "MongoDB", "SQL", "RLS", "JWT", "REST APIs", "Postman"
+    "C#", ".NET", "ASP.NET Core", "Entity Framework Core", "Supabase", "PostgreSQL", "SQL Server", "RLS", "JWT", "REST APIs", "Postman"
   ],
   "ARTIFICIAL_INTELLIGENCE": [
     "RAG", "LlamaIndex", "ChromaDB", "Qdrant", "Embeddings", "LLMs", "MCP", "NLP", "scikit-learn", "ONNX Runtime", "Laya"
@@ -29,7 +29,7 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
     "SQL", "Power BI", "Looker Studio", "Excel", "Google Sheets", "Apps Script", "Pandas", "NumPy", "ETL/ELT"
   ],
   "TOOLS": [
-    "Git", "GitHub Actions", "Vercel", "Figma", "ESLint"
+    "Git", "Docker", "GitHub Actions", "Vercel", "Render", "Figma", "ESLint"
   ]
 }
 ```
