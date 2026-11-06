@@ -2,7 +2,6 @@
   <a href="https://maickolrivera.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F9F5EC?style=for-the-badge&logo=vercel&logoColor=5C5B57" alt="Portfolio"></a>
     <a href="mailto:msrivera.msro@gmail.com"><img src="https://img.shields.io/badge/Email-F9F5EC?style=for-the-badge&logo=gmail&logoColor=5C5B57" alt="Email"></a>
   <a href="https://www.linkedin.com/in/maickol-rivera/"><img src="https://img.shields.io/badge/LinkedIn-F9F5EC?style=for-the-badge&logo=linkedin&logoColor=5C5B57" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/English%20B2-5C5B57?style=for-the-badge&logo=translate&logoColor=white" alt="English B2">
   <img src="https://img.shields.io/badge/Software%20Engineering-5C5B57?style=for-the-badge&logo=code-slash&logoColor=white" alt="Software Engineering">
   <img src="https://img.shields.io/badge/@%20UCompensar-5C5B57?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="@ UCompensar">
   <img src="https://img.shields.io/badge/Bogot%C3%A1%2C%20Colombia-5C5B57?style=for-the-badge&logo=google-maps&logoColor=white" alt="Bogotá, Colombia">  
