@@ -1,16 +1,13 @@
-<img width="3200" height="840" alt="banner" src="https://media.licdn.com/dms/image/v2/D4E16AQH4HrdnyPxz0A/profile-displaybackgroundimage-shrink_200_800/B4EaGfa2h_IgAQ-/0/1793675979125?e=1795046400&v=beta&t=at-gV5QTL-33ADV7osHi06qKa4QTktb6pg4-oT9EZW4" />
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=26&duration=3000&pause=1000&color=EFE6D6&center=true&vCenter=true&width=650&lines=I+build+unique+Web+experiences;I%27m+building+towards+Data+%26+ML+Engineering;I+build+RAG+%26+AI-powered+tools)](https://maickolrivera.vercel.app/)
-
-</div>
-
-I like building things end to end: clean interfaces in React and TypeScript, backends with Python in FastAPI, and everything deployed and usable. I also have hands-on experience with data pipelines and AI tools (RAG, LLM integration), which I bring into the way I build software.
-
----
+<p align="center">
+  <a href="https://maickolrivera.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F9F5EC?style=for-the-badge&logo=vercel&logoColor=5C5B57" alt="Portfolio"></a>
+    <a href="mailto:msrivera.msro@gmail.com"><img src="https://img.shields.io/badge/Email-F9F5EC?style=for-the-badge&logo=gmail&logoColor=5C5B57" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/maickol-rivera/"><img src="https://img.shields.io/badge/LinkedIn-F9F5EC?style=for-the-badge&logo=linkedin&logoColor=5C5B57" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/English%20B2-5C5B57?style=for-the-badge&logo=translate&logoColor=white" alt="English B2">
+  <img src="https://img.shields.io/badge/Software%20Engineering-5C5B57?style=for-the-badge&logo=code-slash&logoColor=white" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/@%20UCompensar-5C5B57?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="@ UCompensar">
+  <img src="https://img.shields.io/badge/Bogot%C3%A1%2C%20Colombia-5C5B57?style=for-the-badge&logo=google-maps&logoColor=white" alt="Bogotá, Colombia">  
+</p>
+<img width="3600" height="900" alt="image" src="https://github.com/user-attachments/assets/f8204489-adae-4a2f-91d7-e8c09ab050b9" />
 
 ## Tech Skills
 
@@ -33,17 +30,3 @@ I like building things end to end: clean interfaces in React and TypeScript, bac
   ]
 }
 ```
-
-<div align="center"><br>
-
-<p align="center">
-  | 🎓 Software Engineering @ UCompensar &nbsp;|&nbsp; 🌍 English B2 &nbsp;|&nbsp; 📍 Bogotá, Colombia |
-</p>
-
-<p align="center">
-  <a href="https://maickolrivera.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E1611?style=for-the-badge&logo=vercel&logoColor=EFE6D6" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/maickol-rivera/"><img src="https://img.shields.io/badge/LinkedIn-514436?style=for-the-badge&logo=linkedin&logoColor=EFE6D6" alt="LinkedIn"></a>
-  <a href="mailto:msrivera.msro@gmail.com"><img src="https://img.shields.io/badge/Email-8B7C66?style=for-the-badge&logo=gmail&logoColor=EFE6D6" alt="Email"></a>
-</p>
-
-</div>
